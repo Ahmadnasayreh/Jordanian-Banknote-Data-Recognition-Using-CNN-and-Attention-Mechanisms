@@ -1,0 +1,4 @@
+Hybrid Model Development: Developed a hybrid model combining deep learning (VGG16, VGG19, InceptionResNetV2, DenseNet, ResNet50, ConvNext) for feature extraction with CNN and attention mechanisms for enhanced banknote classification, achieving 96% accuracy.
+Data Preprocessing and Augmentation: Utilized image preprocessing techniques, including normalization and data augmentation, to enhance the quality and diversity of the dataset containing Jordanian banknotes.
+Evaluation and Comparison: Compared the proposed model with eight pre-trained deep learning models, demonstrating superior performance in recognizing counterfeit Jordanian banknotes with 96.6% precision, 96.4% recall, and 94.5% F1-score.
+Real-World Application: The model’s high accuracy and robustness provide a reliable tool for financial institutions to detect counterfeit banknotes, significantly improving the efficiency of fraud prevention systems.
